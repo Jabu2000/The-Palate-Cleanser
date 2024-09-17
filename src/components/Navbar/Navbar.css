@@ -12,6 +12,7 @@
     justify-content: flex-start;
     align-items: center;
     color: white;
+    font-size: 30px;
 }
 
 .app__navbar-logo img {
